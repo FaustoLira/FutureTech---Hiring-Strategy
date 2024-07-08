@@ -15,4 +15,4 @@ The fully understand behind the techniques used in this projects can be seen in 
 
 ## Visualization Techniques
 
-The visualizations were inspired by the Gestalt principles of visual perception described in [Knaflic, C. N. (2015)](https://www-oreilly-com.libproxy.nbcc.ca/library/view/storytelling-with-data/9781119002253/)
+The visualizations were inspired by the Gestalt principles of visual perception described in [Knaflic, C. N. (2019)](https://www-oreilly-com.libproxy.nbcc.ca/library/view/storytelling-with-data/9781119002253/)
