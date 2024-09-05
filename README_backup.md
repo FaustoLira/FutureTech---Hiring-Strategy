@@ -1,7 +1,5 @@
 # Project: FutureTech - Hiring Strategy
 
-## Objective
-
 This project aims to utilize advanced visualization and storytelling techniques to create a compelling analytical presentation on the recruitment processes employed by "FutureTech," a fictional data analytics consulting firm.
 
 ## FutureTech
