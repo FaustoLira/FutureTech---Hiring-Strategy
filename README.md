@@ -10,11 +10,11 @@ With over 15 years in the analytics consulting business, FutureTech is faced wit
 
 The "presentation.pdf" file has a static presentation, while the "presentation.gif" file shows the animations. The visualization techniques used in these projects are explained in the "standalone.pdf."
 
-The visualizations were inspired by the Gestalt principles of visual perception described in [Knaflic, C. N. (2019)](https://www-oreilly-com.libproxy.nbcc.ca/library/view/storytelling-with-data/9781119002253/)
-
 ## Technical Details
-- Utilize advanced visualization and storytelling techniques to create a compelling analytical presentation on the recruitment processes employed by FutureTech.
-- Applied **Gestalt principles** of visual perception to enhance chart clarity and impact, ensuring the effective communication of insights. The primary reference for these principles is [Knaflic, C. N. (2019)](https://www-oreilly-com.libproxy.nbcc.ca/library/view/storytelling-with-data/9781119002253/)
+- Utilize advanced visualization and storytelling techniques to create a compelling analytical presentation on the recruitment processes 
+employed by FutureTech.
+- Applied **Gestalt principles** of visual perception to enhance chart clarity and impact, ensuring the effective communication of 
+insights. The primary reference for these principles is [Knaflic, C. N. (2019)](https://www-oreilly-com.libproxy.nbcc.ca/library/view/storytelling-with-data/9781119002253/)
 
 ## Impact
 
