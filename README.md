@@ -5,8 +5,7 @@
 This project aims to utilize advanced visualization and storytelling techniques to create a compelling analytical 
 presentation on the recruitment processes employed by "FutureTech," a fictional data analytics consulting firm.
 
-### FutureTech
-
+**FutureTech**  
 With over 15 years in the analytics consulting business, FutureTech is faced with the need to adapt to modern 
 trends in inclusion, work flexibility, and a culture of continuous learning, among others. With regard to inclusion, 
 the company has established five hiring programs: ABXL, ARC, EMA, REP, and QB. The goal is to begin balancing the 
