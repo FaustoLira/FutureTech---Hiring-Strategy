@@ -26,4 +26,5 @@ PowerPoint’s built-in bar charts, animations, SmartArt graphics, icons, and ph
 
 
 ## Disclaimer
-The "presentation.pdf" file has a static presentation, while the "presentation.gif" file shows the animations. The visualization techniques used in these projects are explained in the "standalone.pdf."
+The "presentation.pdf" file has a static presentation, while the "presentation.gif" file shows the animations. 
+The visualization techniques used in these projects are explained in the "guide.pdf."
