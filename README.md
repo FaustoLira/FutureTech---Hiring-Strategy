@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This project aims to utilize advanced visualization and storytelling techniques to create a compelling analytical presentation on the recruitment processes employed by "FutureTech," a fictional data analytics consulting firm.
+This project aims to utilize advanced visualization and storytelling techniques to create a compelling analytical 
+presentation on the recruitment processes employed by "FutureTech," a fictional data analytics consulting firm.
+
+This project is the result of the final project for the Data Visualization and Storytelling course at NBCC, 
+created in collaboration with Anslem Okeke.
 
 ### FutureTech
 
