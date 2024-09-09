@@ -5,14 +5,19 @@
 This project aims to utilize advanced visualization and storytelling techniques to create a compelling analytical 
 presentation on the recruitment processes employed by "FutureTech," a fictional data analytics consulting firm.
 
-This project is the result of the final project for the Data Visualization and Storytelling course at NBCC, 
-created in collaboration with Anslem Okeke.
-
 ### FutureTech
 
-With over 15 years in the analytics consulting business, FutureTech is faced with the need to adapt to modern trends in inclusion, work flexibility, and a culture of continuous learning, among others. With regard to inclusion, the company has established five hiring programs: ABXL, ARC, EMA, REP, and QB. The goal is to begin balancing the different types of talent in the company. The company has set an initial target of 25% of vacancies exclusively for women and 40% of vacancies exclusively for the diversity group (ethnic women and men and non-ethnic women).
+With over 15 years in the analytics consulting business, FutureTech is faced with the need to adapt to modern 
+trends in inclusion, work flexibility, and a culture of continuous learning, among others. With regard to inclusion, 
+the company has established five hiring programs: ABXL, ARC, EMA, REP, and QB. The goal is to begin balancing the 
+different types of talent in the company. The company has set an initial target of 25% of vacancies exclusively 
+for women and 40% of vacancies exclusively for the diversity group (ethnic women and men and non-ethnic women).
 
-The "presentation.pdf" file has a static presentation, while the "presentation.gif" file shows the animations. The visualization techniques used in these projects are explained in the "standalone.pdf."
+The "presentation.pdf" file has a static presentation, while the "presentation.gif" file shows the animations. 
+The visualization techniques used in these projects are explained in the "standalone.pdf."
+
+This project is the result of the final project for the Data Visualization and Storytelling course at NBCC, 
+created in collaboration with Anslem Okeke.
 
 ## Technical Details
 - Utilize advanced visualization and storytelling techniques to create a compelling analytical presentation on the recruitment processes 
